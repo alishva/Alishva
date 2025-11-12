@@ -1,51 +1,48 @@
 <div align="center">
 
-  <img src="welcome-header.gif" alt="welcome to my github profile" width="500">
+<img src="welcome-header.gif" alt="welcome to my github profile" width="500">
 
-  <h1 style="font-family:'Comic Sans MS', cursive; color:#ff8db9; text-shadow:0px 0px 8px #ff4da6;">💖 Hi there, pookie-friends! 💖</h1>
+<h1 style="font-family: 'Comic Sans MS', cursive; color: #ffb6c1; text-shadow: 0 0 10px #ff69b4;">💖 hii pookies 💖</h1>
 
-  <img src="sparkle-divider.gif" width="400" alt="✨ divider ✨">
+<img src="sparkle-line.gif" width="400">
 
-  <p style="font-family:'Lucida Handwriting', cursive; color:#ff8db9; font-size:22px;">
-    I love **code** &nbsp; <img src="cat-typing.gif" width="60" alt="cat typing"> &nbsp; and 🌈 **unicorns** 🌈 &nbsp; <img src="unicorn.gif" width="60" alt="unicorn">
-  </p>
+<p style="font-family: 'Comic Sans MS', cursive; color: #ff69b4; font-size: 20px;">
+✨ i love code ✨ &nbsp; <img src="cat-typing.gif" width="60"> &nbsp;
+and 🦄 unicorns 🦄 &nbsp; <img src="unicorn.gif" width="60">
+</p>
 
-  <img src="party-furby.gif" align="right" width="90" alt="party furby">
+<img src="party-furby.gif" align="right" width="90">
 
-  <br><br>
+<br><br>
 
-  <img src="under-construction.gif" width="280" alt="under construction">
+<img src="under-construction.gif" width="300">
+<br>
+<img src="hot.gif" width="100">
 
-  <br>
+<br><br>
 
-  <img src="hot.gif" width="120" alt="hot">
+<img src="sparkle-divider.gif" width="400">
 
-  <br><br>
+<h2 style="font-family: 'Courier New', monospace; color: #ffb6c1;">🌈 aesthetic badges corner 🌈</h2>
 
-  <img src="sparkle-divider.gif" width="400" alt="✨ divider 2 ✨">
+<p>
+	<img src="counter.gif">
+	<img src="badge1.gif">
+	<img src="badge2.gif">
+	<img src="badge3.png">
+	<img src="badge4.gif">
+	<img src="badge5.gif">
+	<img src="badge6.gif">
+</p>
 
-  <h2 style="font-family:'Courier New', monospace; color:#ff8db9;">🌸 Badge Garden 🌸</h2>
+<img src="flames.gif" width="400">
 
-  <p>
-    <img src="counter.gif" alt="visitor counter">  
-    <img src="badge1.gif" alt="badge1">  
-    <img src="badge2.gif" alt="badge2">  
-    <img src="badge3.png" alt="badge3">  
-    <img src="badge4.gif" alt="badge4">  
-    <img src="badge5.gif" alt="badge5">  
-    <img src="badge6.gif" alt="badge6">
-  </p>
+<br>
+<img src="sparkle-line.gif" width="400">
+<br>
 
-  <img src="flames.gif" width="400" alt="flames">
-
-  <br>
-
-  <img src="sparkle-line.gif" width="400" alt="sparkle line">
-
-  <br>
-
-  <p style="font-family:'Comic Sans MS', cursive; color:#ff8db9; font-size:18px;">
-    Made with 💕, glitter, and way too much caffeine ☕
-  </p>
+<p style="font-family: 'Lucida Handwriting', cursive; color: #ffb6c1; font-size: 18px;">
+made with 💕, glitter, and way too much caffeine ☕
+</p>
 
 </div>
